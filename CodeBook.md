@@ -156,3 +156,6 @@ The plyr package is called to use the ddply function to create a dataset with th
 * final_data: Combined data of modified X_data, Y_data and subject_data
 * avg_data: Dataset with mean values of each feature for each activity of a subject
 
+## References:
+
+[1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
