@@ -38,4 +38,4 @@ The R script called run_analysis.R does the following:
 * The R scipt is commented appropriately to be self-explanatory
 * Make sure that the plyr package is pre-installed.
 * Run the scipt run_analysis.R after setting the working directory of your choice.
-* The script download and unwips the required raw data and creates the output in the form of a text file in your working directory.
+* The script downloads and unwips the required raw data and creates the output in the form of a text file in your working directory.
